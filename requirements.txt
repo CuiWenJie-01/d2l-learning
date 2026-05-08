@@ -1,7 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
 torch
+torchvision
+torchaudio
 numpy
 matplotlib
 jupyter
-torchvision
 d2l
 pandas
